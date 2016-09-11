@@ -59,3 +59,7 @@ Comandos GtHub
 11. Unificar Ramas con la Master
 
     git merge Nombre_Rama
+
+12. Ultima version del documento
+
+    git pull origin master
