@@ -41,3 +41,13 @@ Comandos GtHub
 7. Conectar a un repositorio Remoto
 
     git remote add <URL remote repositori>
+
+// RAMAS
+
+8. Crear una nueva rama 
+    
+    git branch Nombre_Rama
+
+9. Posicionarse en una rama
+
+    git checkout Nombre_Rama
