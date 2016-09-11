@@ -1,4 +1,4 @@
-# PrimerRepositorio
+# PrimerRepositorio --- RAMA
 Este es el primer repositorio que creo
 
 Comandos GtHub
@@ -22,7 +22,7 @@ Comandos GtHub
 4. leer la clave para copiar a GitHub
     cat ~/.ssh/id_rsa.pub
 
-5. Arrancar el proyecto con un repositorio local
+5. Arrancar el proyecto con un repositorio local 
 
     git init
 
