@@ -51,3 +51,11 @@ Comandos GtHub
 9. Posicionarse en una rama
 
     git checkout Nombre_Rama
+
+10. Observar en que rama me encuentro
+
+    git branch
+
+11. Unificar Ramas con la Master
+
+    git merge Nombre_Rama
