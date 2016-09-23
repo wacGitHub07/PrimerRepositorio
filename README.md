@@ -40,7 +40,7 @@ Comandos GtHub
 
 7. Conectar a un repositorio Remoto
 
-    git remote add <URL remote repositori>
+    git remote add abreviacion <URL remote repositori>
 
 // RAMAS
 
@@ -63,3 +63,5 @@ Comandos GtHub
 12. Ultima version del documento
 
     git pull origin master
+
+    //Continuamos con los comandos
